@@ -2,12 +2,19 @@
 
 ### Keywords and their meanings
 X - X register
+
 Y - Y register
+
 R - Result Register
+
 A - Accumulator
+
 PC - Program Counter
+
 *addr* - User-specified address
+
 *val* - User-specified value
+
 ditto - Same as above
 
 ### List of Instructions
